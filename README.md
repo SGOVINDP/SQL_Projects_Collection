@@ -56,8 +56,8 @@ For these examples, I used Microsoft SQL Server Management Studio.
 ## License
 By contributing to this project, you agree that your contributions will be licensed under the MIT License. Your cooperation is vital in ensuring a collaborative and open environment.
 
-I appreciate your interest in this project and look forward to creating impactful Data Management together!
+
 
 ---
 
-Thank you for your interest in the SQL Projects! Feel free to connect me at snehakasat24@gmail.com
+I appreciate your interest in this project and look forward to creating impactful Data Management together!<br>Feel free to connect me at snehakasat24@gmail.com
